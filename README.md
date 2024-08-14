@@ -1,0 +1,1 @@
+This model is trained on a dataset found at freecodecamp.org The images are saved and accessed locally on my personal machine. The model is trained using CNN. Images are seperated into training, testing and validation. Training data has some transformations added to help improve accuracy of training. Training data consists of 1000 cats and 1000 dogs from freecodecamp.org
